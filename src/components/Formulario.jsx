@@ -46,8 +46,8 @@ const Formulario = () => {
                         <option value='ES'>España</option>
                         <option value='US'>EEUU</option>
                         <option value='MX'>Mexico</option>
-                        <option value='AR'>Argentina</option>
-                        <option value='CO'>Colombia</option>
+                        <option value='PT'>Portugal</option>
+                        <option value='IT'>Italia</option>
                     </select>
                 </div>
                 <input type='submit' value='Consultar'/>
